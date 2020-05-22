@@ -1,0 +1,22 @@
+1. Exercício 1 (Conceitos sobre Redes Neurais Artificiais)
+Descreva com suas palavras o funcionamento de uma rede neural artificial.
+
+Sistemas de computação inspirados nas redes neurais biológicas que constituem o cérebro humano, as RNAs aprendem dados exemplos (amostras) que contém inúmeras variáveis explicativas, sem serem programadas com regras tradicionais de programação.
+Podem ser utilizadas para categorizar imagens por exemplo, ou em problemas de regressão, para encontrar valores contínuos a partir dos dados de teste.
+
+
+2. Exercício 2 (Aprendizagem de Parâmetros em Redes Neurais Artificiais)
+Faça um breve resumo sobre o funcionamento do algoritmo da retropropagação na aprendizagem
+de parâmetros em redes neurais artificiais.
+
+A retropropagação é parte do processo de aprendizagem de uma RNA. Em RNAs, durante o processo de testes, primeiro são encontrados os gradientes, e em seguida acontece a retropropagação, que é o processo de minimizar o custo em cada nó da rede.
+
+
+3. Exercício 3 (Conceitos sobre Redes Neurais Artificiais)
+Cite algumas áreas de aplicação das RNAs e os principais benefícios alcançados com essa
+técnicas de ML.
+
+Exeplos de aplicação: classificação de imagens (ex: em medicina, classificar um tumor como maligno ou benigno), regressão (ex: aplicações financeiras, tentar prever o preço de ações em determinada data futura).
+
+Comparando com as técnicas tradicionais de ML, ao aplicar RNAs nesses problemas, é facilitado a utilização de inúmeras variáveis explicativas.
+

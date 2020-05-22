@@ -1,0 +1,7 @@
+Respostas exercícios múltipla excolha - lista RNAs:
+
+Exercício 4  (Neurônio Biológico) - Resposta: C
+Exercício 5 (Modelo Matemático de Neurônios Artificiais) - Resposta: A
+Exercício 6 (Arquitetura de RNA) - Resposta: C
+Exercício 7 (Aprendizagem de Parâmetros em RNA) - Resposta: C
+Exercício 8 (Função Custo em RNAs) - Resposta: C
